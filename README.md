@@ -15,7 +15,7 @@ I am a McGill Graduate with 1 year of professional experience in Data Science. I
 
 ### 🌐 Connect With Me
 
-<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" valign="middle" /></a> • 📧 **[Email](mailto:noa@teboul.ca)** • 📍 **Montreal, Canada**
+💼 **[LinkedIn](https://linkedin.com)** • ✉️ **[Email](mailto:noa@teboul.ca)** • 📍 **Montreal, Canada**
 
 ---
 
